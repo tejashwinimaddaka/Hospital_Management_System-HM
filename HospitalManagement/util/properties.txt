@@ -1,0 +1,4 @@
+driver = {SQL Server}
+server = LAPTOP-Q72Q77L5\SQLEXPRESS
+database = Hospital_Management
+trusted_connection = yes
